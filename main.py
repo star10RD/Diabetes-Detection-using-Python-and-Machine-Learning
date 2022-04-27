@@ -17,7 +17,6 @@ with col2:
 with col3:
     st.write("")
 
-st.markdown("<link rel='icon' type='image/x-icon' href='favicon.ico'>", unsafe_allow_html=True)
 st.markdown("<h1 style='text-align: center;'>Detecting Diabetes using Machine Learning and Python</h1>", unsafe_allow_html=True) 
 st.sidebar.markdown("<h1 style='text-align: center;'>User Input</h1>", unsafe_allow_html=True)
 
