@@ -87,3 +87,8 @@ with col1:
 with col2:
     st.write("K Neighbors:")
     st.write(knn_pred)
+
+st.markdown("<h2 style='text-align: center;'>Project Made By:</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Vedant Poddar - 2019-B-03032001</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Shrestha Sarda - 2019-B-12072000A</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Kastup Bhattarai - 2019-B-28092001B</h1>", unsafe_allow_html=True)
